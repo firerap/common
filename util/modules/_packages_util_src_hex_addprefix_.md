@@ -14,7 +14,7 @@
 
 ▸ **hexAddPrefix**(`value?`: string | null): *string*
 
-*Defined in [packages/util/src/hex/addPrefix.ts:21](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/hex/addPrefix.ts#L21)*
+*Defined in [packages/util/src/hex/addPrefix.ts:21](https://github.com/polkadot-js/common/blob/d3527829/packages/util/src/hex/addPrefix.ts#L21)*
 
 **`name`** hexAddPrefix
 

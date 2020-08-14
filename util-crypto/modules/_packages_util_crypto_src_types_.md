@@ -18,6 +18,6 @@
 
 ###  KeypairType
 
-Ƭ **KeypairType**: *"ed25519" | "sr25519" | "ecdsa"*
+Ƭ **KeypairType**: *"ed25519" | "sr25519" | "ecdsa" | "ethereum"*
 
-*Defined in [packages/util-crypto/src/types.ts:15](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util-crypto/src/types.ts#L15)*
+*Defined in [packages/util-crypto/src/types.ts:15](https://github.com/polkadot-js/common/blob/d3527829/packages/util-crypto/src/types.ts#L15)*

@@ -66,7 +66,7 @@ an account may be obtained using `toJson` accompanied by the account passphrase.
 
 \+ **new Keyring**(`options`: [KeyringOptions](../interfaces/_packages_keyring_src_types_.keyringoptions.md)): *[Keyring](_packages_keyring_src_keyring_.keyring.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:38](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L38)*
+*Defined in [packages/keyring/src/keyring.ts:46](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L46)*
 
 **Parameters:**
 
@@ -84,7 +84,7 @@ Name | Type | Default |
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md).[decodeAddress](../interfaces/_packages_keyring_src_types_.keyringinstance.md#decodeaddress)*
 
-*Defined in [packages/keyring/src/keyring.ts:38](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L38)*
+*Defined in [packages/keyring/src/keyring.ts:46](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L46)*
 
 ## Accessors
 
@@ -92,7 +92,7 @@ Name | Type | Default |
 
 • **get pairs**(): *[KeyringPair](../interfaces/_packages_keyring_src_types_.keyringpair.md)[]*
 
-*Defined in [packages/keyring/src/keyring.ts:53](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L53)*
+*Defined in [packages/keyring/src/keyring.ts:61](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L61)*
 
 **`description`** retrieve the pairs (alias for getPairs)
 
@@ -104,7 +104,7 @@ ___
 
 • **get publicKeys**(): *Uint8Array[]*
 
-*Defined in [packages/keyring/src/keyring.ts:60](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L60)*
+*Defined in [packages/keyring/src/keyring.ts:68](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L68)*
 
 **`description`** retrieve the publicKeys (alias for getPublicKeys)
 
@@ -116,7 +116,7 @@ ___
 
 • **get type**(): *KeypairType*
 
-*Defined in [packages/keyring/src/keyring.ts:67](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L67)*
+*Defined in [packages/keyring/src/keyring.ts:75](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L75)*
 
 **`description`** Returns the type of the keyring, ed25519, sr25519 or ecdsa
 
@@ -128,7 +128,7 @@ ___
 
 ▸ **addFromAddress**(`address`: string | Uint8Array, `meta`: [KeyringPair$Meta](../modules/_packages_keyring_src_types_.md#keyringpairmeta), `encoded`: Uint8Array | null, `type`: KeypairType, `ignoreChecksum?`: undefined | false | true, `encType?`: [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[]): *[KeyringPair](../interfaces/_packages_keyring_src_types_.keyringpair.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:87](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L87)*
+*Defined in [packages/keyring/src/keyring.ts:95](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L95)*
 
 **`name`** addFromAddress
 
@@ -158,7 +158,7 @@ ___
 
 ▸ **addFromJson**(`__namedParameters`: object, `ignoreChecksum?`: undefined | false | true): *[KeyringPair](../interfaces/_packages_keyring_src_types_.keyringpair.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:100](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L100)*
+*Defined in [packages/keyring/src/keyring.ts:108](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L108)*
 
 **`name`** addFromJson
 
@@ -191,7 +191,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:119](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L119)*
+*Defined in [packages/keyring/src/keyring.ts:127](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L127)*
 
 **`name`** addFromMnemonic
 
@@ -220,7 +220,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:130](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L130)*
+*Defined in [packages/keyring/src/keyring.ts:138](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L138)*
 
 **`name`** addFromSeed
 
@@ -248,7 +248,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:145](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L145)*
+*Defined in [packages/keyring/src/keyring.ts:147](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L147)*
 
 **`name`** addFromUri
 
@@ -274,7 +274,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:75](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L75)*
+*Defined in [packages/keyring/src/keyring.ts:83](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L83)*
 
 **`name`** addPair
 
@@ -296,7 +296,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:156](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L156)*
+*Defined in [packages/keyring/src/keyring.ts:158](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L158)*
 
 **`name`** createFromUri
 
@@ -320,7 +320,7 @@ ___
 
 ▸ **encodeAddress**(`address`: Uint8Array | string, `ss58Format?`: undefined | number): *string*
 
-*Defined in [packages/keyring/src/keyring.ts:197](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L197)*
+*Defined in [packages/keyring/src/keyring.ts:194](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L194)*
 
 **`name`** encodeAddress
 
@@ -343,7 +343,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:207](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L207)*
+*Defined in [packages/keyring/src/keyring.ts:204](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L204)*
 
 **`name`** getPair
 
@@ -368,7 +368,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:216](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L216)*
+*Defined in [packages/keyring/src/keyring.ts:213](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L213)*
 
 **`name`** getPairs
 
@@ -386,7 +386,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:225](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L225)*
+*Defined in [packages/keyring/src/keyring.ts:222](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L222)*
 
 **`name`** getPublicKeys
 
@@ -404,7 +404,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:237](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L237)*
+*Defined in [packages/keyring/src/keyring.ts:234](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L234)*
 
 **`name`** removePair
 
@@ -424,7 +424,7 @@ ___
 
 ▸ **setSS58Format**(`ss58`: number): *void*
 
-*Defined in [packages/keyring/src/keyring.ts:245](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L245)*
+*Defined in [packages/keyring/src/keyring.ts:242](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L242)*
 
 **`name`** setSS58Format;
 
@@ -446,7 +446,7 @@ ___
 
 *Implementation of [KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/keyring.ts:257](https://github.com/polkadot-js/common/blob/6e4a5281/packages/keyring/src/keyring.ts#L257)*
+*Defined in [packages/keyring/src/keyring.ts:254](https://github.com/polkadot-js/common/blob/d3527829/packages/keyring/src/keyring.ts#L254)*
 
 **`name`** toJson
 
