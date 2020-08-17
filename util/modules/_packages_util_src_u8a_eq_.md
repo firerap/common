@@ -14,7 +14,7 @@
 
 ▸ **u8aEq**(`a`: Uint8Array | string, `b`: Uint8Array | string): *boolean*
 
-*Defined in [packages/util/src/u8a/eq.ts:35](https://github.com/polkadot-js/common/blob/27ae1186/packages/util/src/u8a/eq.ts#L35)*
+*Defined in [packages/util/src/u8a/eq.ts:35](https://github.com/polkadot-js/common/blob/72281008/packages/util/src/u8a/eq.ts#L35)*
 
 **`name`** u8aEq
 

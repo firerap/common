@@ -14,7 +14,7 @@
 
 ▸ **secp256k1Compress**(`publicKey`: Uint8Array): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/secp256k1/compress.ts:12](https://github.com/polkadot-js/common/blob/27ae1186/packages/util-crypto/src/secp256k1/compress.ts#L12)*
+*Defined in [packages/util-crypto/src/secp256k1/compress.ts:12](https://github.com/polkadot-js/common/blob/72281008/packages/util-crypto/src/secp256k1/compress.ts#L12)*
 
 **Parameters:**
 
