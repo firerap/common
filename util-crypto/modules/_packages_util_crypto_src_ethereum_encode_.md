@@ -12,14 +12,14 @@
 
 ###  ethereumEncode
 
-▸ **ethereumEncode**(`_address?`: string | Uint8Array): *string*
+▸ **ethereumEncode**(`addressOrPublic?`: string | Uint8Array): *string*
 
-*Defined in [packages/util-crypto/src/ethereum/encode.ts:10](https://github.com/polkadot-js/common/blob/d3527829/packages/util-crypto/src/ethereum/encode.ts#L10)*
+*Defined in [packages/util-crypto/src/ethereum/encode.ts:10](https://github.com/polkadot-js/common/blob/27ae1186/packages/util-crypto/src/ethereum/encode.ts#L10)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`_address?` | string &#124; Uint8Array |
+`addressOrPublic?` | string &#124; Uint8Array |
 
 **Returns:** *string*

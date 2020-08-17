@@ -14,7 +14,7 @@
 
 ▸ **sortAddresses**(`addresses`: (string | Uint8Array‹›)[], `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string[]*
 
-*Defined in [packages/util-crypto/src/address/sort.ts:12](https://github.com/polkadot-js/common/blob/d3527829/packages/util-crypto/src/address/sort.ts#L12)*
+*Defined in [packages/util-crypto/src/address/sort.ts:12](https://github.com/polkadot-js/common/blob/27ae1186/packages/util-crypto/src/address/sort.ts#L12)*
 
 **Parameters:**
 
