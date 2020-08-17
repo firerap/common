@@ -91,7 +91,6 @@
 * ["packages/util-crypto/src/secp256k1/hasher"](modules/_packages_util_crypto_src_secp256k1_hasher_.md)
 * ["packages/util-crypto/src/secp256k1/keypair/fromSeed"](modules/_packages_util_crypto_src_secp256k1_keypair_fromseed_.md)
 * ["packages/util-crypto/src/secp256k1/recover"](modules/_packages_util_crypto_src_secp256k1_recover_.md)
-* ["packages/util-crypto/src/secp256k1/sanitizePublic"](modules/_packages_util_crypto_src_secp256k1_sanitizepublic_.md)
 * ["packages/util-crypto/src/secp256k1/sign"](modules/_packages_util_crypto_src_secp256k1_sign_.md)
 * ["packages/util-crypto/src/secp256k1/types"](modules/_packages_util_crypto_src_secp256k1_types_.md)
 * ["packages/util-crypto/src/secp256k1/verify"](modules/_packages_util_crypto_src_secp256k1_verify_.md)

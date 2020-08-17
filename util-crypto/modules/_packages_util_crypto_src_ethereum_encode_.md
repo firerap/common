@@ -14,7 +14,7 @@
 
 ▸ **ethereumEncode**(`addressOrPublic?`: string | Uint8Array): *string*
 
-*Defined in [packages/util-crypto/src/ethereum/encode.ts:10](https://github.com/polkadot-js/common/blob/72281008/packages/util-crypto/src/ethereum/encode.ts#L10)*
+*Defined in [packages/util-crypto/src/ethereum/encode.ts:18](https://github.com/polkadot-js/common/blob/8554d470/packages/util-crypto/src/ethereum/encode.ts#L18)*
 
 **Parameters:**
 
