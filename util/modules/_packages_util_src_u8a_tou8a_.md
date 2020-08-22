@@ -14,14 +14,14 @@
 
 ▸ **u8aToU8a**(`value?`: number[] | Buffer | Uint8Array | string | null): *Uint8Array*
 
-*Defined in [packages/util/src/u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/a53008fd/packages/util/src/u8a/toU8a.ts#L27)*
+*Defined in [packages/util/src/u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/3b383b97/packages/util/src/u8a/toU8a.ts#L27)*
 
 **`name`** u8aToU8a
 
 **`summary`** Creates a Uint8Array value from a Uint8Array, Buffer, string or hex input.
 
 **`description`** 
-`null` ior `undefined` nputs returns a `[]` result, Uint8Array values returns the value, hex strings returns a Uint8Array representation.
+`null` or `undefined` inputs returns a `[]` result, Uint8Array values returns the value, hex strings returns a Uint8Array representation.
 
 **`example`** 
 <BR>
