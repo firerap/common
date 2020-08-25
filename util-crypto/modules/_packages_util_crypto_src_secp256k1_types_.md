@@ -14,4 +14,4 @@
 
 Ƭ **HashType**: *"blake2" | "keccak"*
 
-*Defined in [packages/util-crypto/src/secp256k1/types.ts:5](https://github.com/polkadot-js/common/blob/08de8ce2/packages/util-crypto/src/secp256k1/types.ts#L5)*
+*Defined in [packages/util-crypto/src/secp256k1/types.ts:5](https://github.com/polkadot-js/common/blob/e5dd55e4/packages/util-crypto/src/secp256k1/types.ts#L5)*

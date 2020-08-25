@@ -29,4 +29,4 @@
   68, 69
 ]
 
-*Defined in [packages/util-crypto/src/address/ss58.ts:5](https://github.com/polkadot-js/common/blob/08de8ce2/packages/util-crypto/src/address/ss58.ts#L5)*
+*Defined in [packages/util-crypto/src/address/ss58.ts:5](https://github.com/polkadot-js/common/blob/e5dd55e4/packages/util-crypto/src/address/ss58.ts#L5)*
