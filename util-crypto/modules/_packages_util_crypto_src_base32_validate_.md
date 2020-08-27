@@ -14,7 +14,7 @@
 
 ▸ **base32Validate**(`value`: string): *true*
 
-*Defined in [packages/util-crypto/src/base32/validate.ts:14](https://github.com/polkadot-js/common/blob/2f7d5cd4/packages/util-crypto/src/base32/validate.ts#L14)*
+*Defined in [packages/util-crypto/src/base32/validate.ts:14](https://github.com/polkadot-js/common/blob/d176c7471/packages/util-crypto/src/base32/validate.ts#L14)*
 
 **`name`** base32Validate
 

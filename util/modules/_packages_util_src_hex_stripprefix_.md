@@ -14,7 +14,7 @@
 
 ▸ **hexStripPrefix**(`value?`: string | null): *string*
 
-*Defined in [packages/util/src/hex/stripPrefix.ts:23](https://github.com/polkadot-js/common/blob/2f7d5cd4/packages/util/src/hex/stripPrefix.ts#L23)*
+*Defined in [packages/util/src/hex/stripPrefix.ts:23](https://github.com/polkadot-js/common/blob/d176c7471/packages/util/src/hex/stripPrefix.ts#L23)*
 
 **`name`** hexStripPrefix
 

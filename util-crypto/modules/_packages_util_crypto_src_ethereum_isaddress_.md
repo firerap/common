@@ -14,7 +14,7 @@
 
 ▸ **isEthereumAddress**(`address?`: undefined | string): *boolean*
 
-*Defined in [packages/util-crypto/src/ethereum/isAddress.ts:9](https://github.com/polkadot-js/common/blob/2f7d5cd4/packages/util-crypto/src/ethereum/isAddress.ts#L9)*
+*Defined in [packages/util-crypto/src/ethereum/isAddress.ts:9](https://github.com/polkadot-js/common/blob/d176c7471/packages/util-crypto/src/ethereum/isAddress.ts#L9)*
 
 **Parameters:**
 

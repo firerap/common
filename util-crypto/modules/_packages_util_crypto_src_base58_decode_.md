@@ -14,7 +14,7 @@
 
 ▸ **base58Decode**(`value`: string, `ipfsCompat`: boolean): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/2f7d5cd4/packages/util-crypto/src/base58/decode.ts#L16)*
+*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/d176c7471/packages/util-crypto/src/base58/decode.ts#L16)*
 
 **`name`** base58Decode
 
