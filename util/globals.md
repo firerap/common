@@ -61,6 +61,7 @@
 * ["packages/util/src/is/u8a"](modules/_packages_util_src_is_u8a_.md)
 * ["packages/util/src/is/undefined"](modules/_packages_util_src_is_undefined_.md)
 * ["packages/util/src/is/utf8"](modules/_packages_util_src_is_utf8_.md)
+* ["packages/util/src/is/wasm"](modules/_packages_util_src_is_wasm_.md)
 * ["packages/util/src/logger"](modules/_packages_util_src_logger_.md)
 * ["packages/util/src/number/toHex"](modules/_packages_util_src_number_tohex_.md)
 * ["packages/util/src/number/toU8a"](modules/_packages_util_src_number_tou8a_.md)
