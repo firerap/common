@@ -14,7 +14,7 @@
 
 ▸ **keyHdkdEcdsa**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
 
-*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:13](https://github.com/polkadot-js/common/blob/92cc8fc4e/packages/util-crypto/src/key/hdkdEcdsa.ts#L13)*
+*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:13](https://github.com/polkadot-js/common/blob/37d1bcb6e/packages/util-crypto/src/key/hdkdEcdsa.ts#L13)*
 
 **Parameters:**
 

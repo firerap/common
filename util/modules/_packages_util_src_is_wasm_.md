@@ -14,7 +14,7 @@
 
 ▸ **isWasm**(`value?`: Uint8Array): *boolean*
 
-*Defined in [packages/util/src/is/wasm.ts:15](https://github.com/polkadot-js/common/blob/92cc8fc4e/packages/util/src/is/wasm.ts#L15)*
+*Defined in [packages/util/src/is/wasm.ts:15](https://github.com/polkadot-js/common/blob/37d1bcb6e/packages/util/src/is/wasm.ts#L15)*
 
 **`name`** isWasm
 

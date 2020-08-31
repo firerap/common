@@ -14,7 +14,7 @@
 
 ▸ **naclOpen**(`sealed`: Uint8Array, `nonce`: Uint8Array, `senderBoxPublic`: Uint8Array, `receiverBoxSecret`: Uint8Array): *Uint8Array | null*
 
-*Defined in [packages/util-crypto/src/nacl/open.ts:21](https://github.com/polkadot-js/common/blob/92cc8fc4e/packages/util-crypto/src/nacl/open.ts#L21)*
+*Defined in [packages/util-crypto/src/nacl/open.ts:21](https://github.com/polkadot-js/common/blob/37d1bcb6e/packages/util-crypto/src/nacl/open.ts#L21)*
 
 **`name`** naclOpen
 
